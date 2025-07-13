@@ -3,12 +3,9 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 
   publish_mode: editorial_workflow
-  registerMediaLibrary: true
-  
+
 
 media_folder: "src/assets/uploads" # Media files will be stored in the repo under static/images/uploads
-media_library:
-  name : uploads
 public_folder: "/assets/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
