@@ -1,7 +1,6 @@
 ---
-layout: $/layouts/BlogPost.astro
 title: la cabane
-pubDate: 2025-07-14T20:52:00.000Z
+pubDate: 'Jun 19 2024'
 description: la cabane cabane
 heroImage: /assets/uploads/capture-d’écran-2025-07-13-à-17.30.00.png
 ---
